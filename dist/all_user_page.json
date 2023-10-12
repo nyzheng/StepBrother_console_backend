@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "account": "kaikai",
+        "name": "yukai",
+        "phone": "0911223344",
+        "mail": "zxc4885bsd@gmail.com",
+        "grade": 3,
+        "create_time": "2023/07/24 11:17:22",
+        "update_time": "2023/08/07 22:54:25",
+        "purchase_CA": 10000,
+        "login_status": 1
+    },
+    {
+        "id": 2,
+        "account": "yaoyao",
+        "password": "password456",
+        "name": "yukai",
+        "phone": "0911223344",
+        "mail": "zxc4885bsd@gmail.com",
+        "grade": 2,
+        "create_time": "2023/07/24 11:17:22",
+        "update_time": "2023/08/07 22:54:25",
+        "purchase_CA": 5000,
+        "login_status": 1
+    }
+]

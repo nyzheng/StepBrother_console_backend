@@ -1,0 +1,26 @@
+[
+    {
+        "product_id": 1,
+        "brand_name": "NEW BALANCE",
+        "product_name": "1880",
+        "price": 2400,
+        "class": "man",
+        "product_data_status": 1
+    },
+    {
+        "product_id": 31,
+        "brand_name": "NIKE",
+        "product_name": "1880",
+        "price": 2400,
+        "class": "man",
+        "product_data_status": 0
+    },
+    {
+        "product_id": 5,
+        "brand_name": "NIKE",
+        "product_name": "1880",
+        "price": 2400,
+        "class": "man",
+        "product_data_status": 0
+    }
+]

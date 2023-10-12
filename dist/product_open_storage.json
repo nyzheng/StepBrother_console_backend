@@ -1,0 +1,53 @@
+[
+    {
+        "product_id": 1,
+        "product_status": 1,
+        "size_stock": [
+            { "size": 4, "stock": 10 },
+            { "size": 5, "stock": 10 },
+            { "size": 6, "stock": 10 },
+            { "size": 7, "stock": 7 },
+            { "size": 8, "stock": 10 },
+            { "size": 9, "stock": 8 },
+            { "size": 10, "stock": 10 },
+            { "size": 11, "stock": 10 },
+            { "size": 12, "stock": 10 },
+            { "size": 13, "stock": 10 }
+        ],
+        "price": 2400
+    },
+    {
+        "product_id": 31,
+        "product_status": 1,
+        "size_stock": [
+            { "size": 4, "stock": 10 },
+            { "size": 5, "stock": 10 },
+            { "size": 6, "stock": 10 },
+            { "size": 7, "stock": 9 },
+            { "size": 8, "stock": 10 },
+            { "size": 9, "stock": 10 },
+            { "size": 10, "stock": 10 },
+            { "size": 11, "stock": 9 },
+            { "size": 12, "stock": 10 },
+            { "size": 13, "stock": 10 }
+        ],
+        "price": 2400
+    },
+    {
+        "product_id": 5,
+        "product_status": 1,
+        "size_stock": [
+            { "size": 4, "stock": 10 },
+            { "size": 5, "stock": 10 },
+            { "size": 6, "stock": 10 },
+            { "size": 7, "stock": 9 },
+            { "size": 8, "stock": 10 },
+            { "size": 9, "stock": 10 },
+            { "size": 10, "stock": 10 },
+            { "size": 11, "stock": 9 },
+            { "size": 12, "stock": 10 },
+            { "size": 13, "stock": 10 }
+        ],
+        "price": 2400
+    }
+]

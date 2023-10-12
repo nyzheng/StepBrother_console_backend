@@ -1,0 +1,41 @@
+[
+    {
+        "id": 2,
+        "time": "2023-07-21 15:18:36",
+        "user_id": 2,
+        "name": "NianYaoBro",
+        "recipient_name": "NianYaoBro",
+        "recipient_phone": "0912345678",
+        "recipient_address": "高雄市前金區五福三路63號11樓",
+        "purchases": [
+            {
+                "brand_name": "NEW BALANCE",
+                "product_name": "1880",
+                "size": 9,
+                "price": 2400,
+                "quantity": 1,
+                "subtotal": 2400,
+                "purchase_status": 1
+            },
+            {
+                "brand_name": "PUMA",
+                "product_name": "RS-X Elevated Hike",
+                "size": 9,
+                "price": 3800,
+                "quantity": 5,
+                "subtotal": 19000,
+                "purchase_status": 1
+            },
+            {
+                "brand_name": "NEW BALANCE",
+                "product_name": "996",
+                "size": 9,
+                "price": 1300,
+                "quantity": 1,
+                "subtotal": 1300,
+                "purchase_status": 1
+            }
+        ],
+        "sum": 22700
+    }
+]
